@@ -1,5 +1,5 @@
 
-  # AgustVN (COPY, bản copy code)
+  # AgustVN 
 
   This is a code bundle for AgustVN (COPY, bản copy code). The original project is available at https://www.figma.com/design/7YyDR16KBOray2akxOyukp/AgustVN--COPY--b%E1%BA%A3n-copy-code-.
 
