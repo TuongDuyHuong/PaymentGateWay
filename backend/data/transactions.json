@@ -1,0 +1,16 @@
+[
+  {
+    "id": "TXN_1759343313183",
+    "orderId": "ORDER123456",
+    "amount": 100000,
+    "currency": "VND",
+    "paymentMethod": "vnpay",
+    "customerName": "Nguyen Van A",
+    "customerEmail": "customer@example.com",
+    "items": [],
+    "metadata": {},
+    "status": "pending",
+    "createdAt": "2025-10-01T18:28:33.183Z",
+    "updatedAt": "2025-10-01T18:28:33.183Z"
+  }
+]
