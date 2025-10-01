@@ -12,5 +12,32 @@
     "status": "pending",
     "createdAt": "2025-10-01T18:28:33.183Z",
     "updatedAt": "2025-10-01T18:28:33.183Z"
+  },
+  {
+    "id": "TXN_1759343570646",
+    "orderId": "ORDER_DEMO_001",
+    "amount": 250000,
+    "currency": "VND",
+    "paymentMethod": "vnpay",
+    "customerName": "Nguyen Van Demo",
+    "customerEmail": "demo@example.com",
+    "items": [
+      {
+        "id": "P001",
+        "name": "Product 1",
+        "price": 100000,
+        "quantity": 1
+      },
+      {
+        "id": "P002",
+        "name": "Product 2",
+        "price": 150000,
+        "quantity": 1
+      }
+    ],
+    "metadata": {},
+    "status": "pending",
+    "createdAt": "2025-10-01T18:32:50.646Z",
+    "updatedAt": "2025-10-01T18:32:50.646Z"
   }
 ]
